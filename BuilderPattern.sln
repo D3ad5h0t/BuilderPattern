@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{E3B7786E-D637-476B-B096-AB1369785016}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultifacetedBuilder", "MultifacetedBuilder\MultifacetedBuilder.csproj", "{60416523-31AF-442F-AEC2-54E2810EB62B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{E3B7786E-D637-476B-B096-AB1369785016}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3B7786E-D637-476B-B096-AB1369785016}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3B7786E-D637-476B-B096-AB1369785016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60416523-31AF-442F-AEC2-54E2810EB62B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60416523-31AF-442F-AEC2-54E2810EB62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60416523-31AF-442F-AEC2-54E2810EB62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60416523-31AF-442F-AEC2-54E2810EB62B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
