@@ -48,5 +48,7 @@ namespace BuilderPattern
 
             return sb.ToString();
         }
+        
+        public static HtmlBuilder Create(string name) => new HtmlBuilder(name);
     }
 }
