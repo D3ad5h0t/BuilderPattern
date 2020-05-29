@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="BuilderParameter" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BuilderParameter.csproj" t="IncludeRecursive" />
+        <e p="EmailService.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BuilderParameter.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="BuilderPattern" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="BuilderPattern.csproj" t="IncludeRecursive" />
@@ -65,7 +78,7 @@
       </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
-    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_BuilderPattern.-49194762.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.1/resharper-host/local/Transient/ReSharperHost/v201/SolutionCaches/_BuilderPattern.-49194762.00" t="ExcludeRecursive" />
   </component>
 </project>
